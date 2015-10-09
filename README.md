@@ -1,2 +1,2 @@
 # generator-active
-活动
+活动.
